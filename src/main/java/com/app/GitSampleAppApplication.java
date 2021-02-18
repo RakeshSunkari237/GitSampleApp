@@ -8,7 +8,7 @@ public class GitSampleAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitSampleAppApplication.class, args);
-		Sysout.out.println("Checking pull request");
+		System.out.println("Checking pull request");
 	}
 
 }
